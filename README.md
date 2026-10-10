@@ -2,7 +2,7 @@
 
 **EN** | [NL](#nl)
 
-A small personal Homey app that talks to the ConnectLife cloud directly. Made for Hisense air conditioners with the **AEH-W4G2** Wi-Fi module (e.g. DJ25VE0AG) when the official ConnectLife app shows no devices in Homey. Lightly tested, use at your own risk. Current version: **0.5.0**.
+A small personal Homey app that talks to the ConnectLife cloud directly. Made for Hisense air conditioners with the **AEH-W4G2** Wi-Fi module (e.g. DJ25VE0AG) when the official ConnectLife app shows no devices in Homey. Lightly tested, use at your own risk. Current version: **0.5.1**.
 
 ## What it can do
 
