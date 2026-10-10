@@ -1,0 +1,8 @@
+{
+  "name": "nl.vanvoorkes.connectlife-airco",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Persoonlijke ConnectLife airco-koppeling voor Homey (onofficieel)",
+  "main": "app.js",
+  "license": "MIT"
+}
