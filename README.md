@@ -92,7 +92,7 @@ Humidity works the same way with *Use external humidity*. Make sure the tag come
 
 [EN](#connectlife-airco-for-homey-pro-personal-unofficial) | **NL**
 
-Een kleine persoonlijke Homey-app die rechtstreeks met de ConnectLife-cloud praat. Bedoeld voor Hisense-airco's met de **AEH-W4G2** wifi-module (bv. DJ25VE0AG) wanneer de officiële ConnectLife-app geen toestellen toont in Homey. Beperkt getest, gebruik op eigen risico. Huidige versie: **0.5.0**.
+Een kleine persoonlijke Homey-app die rechtstreeks met de ConnectLife-cloud praat. Bedoeld voor Hisense-airco's met de **AEH-W4G2** wifi-module (bv. DJ25VE0AG) wanneer de officiële ConnectLife-app geen toestellen toont in Homey. Beperkt getest, gebruik op eigen risico. Huidige versie: **0.5.1**.
 
 ## Wat de app kan
 
